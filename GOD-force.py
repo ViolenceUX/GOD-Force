@@ -53,7 +53,7 @@ choice = raw_input("[GOD#] >>> ")
 
 if choice == "1":
 
-    website = raw_input('[GOD#] >>> Website Login page URL : ')
+    website = raw_input('[GOD#] >>> Website Login page URL : h')
     website_s = raw_input('[GOD#] >>> Website Redirect URL after login successfully : ')
     user = raw_input('[GOD#] >>> ID or Name of username input : ')
     passw = raw_input('[GOD#] >>> ID or Name of password input : ')
